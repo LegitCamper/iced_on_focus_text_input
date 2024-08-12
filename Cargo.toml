@@ -1,5 +1,5 @@
 [package]
-name = "iced_on_focus_widget"
+name = "iced-on-focus-widget"
 authors = ["LegitCamper"]
 description = "Subscribe to focus changes on widgets"
 readme = "README.md"

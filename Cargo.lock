@@ -1016,6 +1016,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "iced-on-focus-widget"
+version = "0.1.0"
+dependencies = [
+ "iced",
+]
+
+[[package]]
 name = "iced_core"
 version = "0.12.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1065,13 +1072,6 @@ dependencies = [
  "thiserror",
  "unicode-segmentation",
  "xxhash-rust",
-]
-
-[[package]]
-name = "iced_on_focus_widget"
-version = "0.1.0"
-dependencies = [
- "iced",
 ]
 
 [[package]]
