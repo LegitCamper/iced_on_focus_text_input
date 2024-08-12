@@ -1068,7 +1068,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "iced_on_focus_text_input"
+name = "iced_on_focus_widget"
 version = "0.1.0"
 dependencies = [
  "iced",

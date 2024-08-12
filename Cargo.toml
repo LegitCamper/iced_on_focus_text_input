@@ -1,7 +1,13 @@
 [package]
-name = "iced_on_focus_text_input"
+name = "iced_on_focus_widget"
+authors = ["LegitCamper"]
+description = "Subscribe to focus changes on widgets"
+readme = "README.md"
+repository = "https://github.com/LegitCamper/iced_on_focus_widget"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
+keywords = ["iced", "iced-widgets"]
 
 [dependencies]
 iced = { version = "0.12.1", features = ["advanced", "lazy"] }
