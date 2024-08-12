@@ -1,8 +1,8 @@
 use iced::{
-    widget::{column, container, text},
-    Element, Sandbox, Settings,
+    widget::{column, text},
+    Sandbox, Settings,
 };
-use iced_on_focus_text_input::hoverable;
+use iced_on_focus_widget::hoverable;
 
 fn main() {
     App::run(Settings::default()).unwrap()
