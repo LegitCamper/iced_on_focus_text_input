@@ -5,9 +5,9 @@ description = "Subscribe to focus changes on widgets"
 readme = "README.md"
 repository = "https://github.com/LegitCamper/iced_on_focus_widget"
 license = "MIT"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 keywords = ["iced", "iced-widgets"]
 
 [dependencies]
-iced = { version = "0.12.1", features = ["advanced", "lazy"] }
+iced = { version = "0.13", features = ["advanced", "lazy"] }
